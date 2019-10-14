@@ -1,0 +1,12 @@
+sol*
+CMakeCache*
+CMakeFiles*
+*.cmake
+*Makefile
+*dylib
+*user
+cppls
+*DS_Store
+my_grid
+*autosave
+outputs/
